@@ -31,5 +31,17 @@ No game files are modified permanently. Originals are always preserved and can b
 
 ---
 
+## Is this safe? (EAC)
+
+RL-File-Switcher **only ever modifies `.upk` files** — the cosmetic asset packages used by Rocket League. No executables, no configuration files, nothing else is touched.
+
+Easy Anti-Cheat (EAC) targets runtime manipulation: memory injection, DLL hooking, and process tampering. It does not monitor cosmetic asset files on disk.
+
+Additionally, the app **blocks all file swaps while Rocket League is running**, so files are only changed when EAC is fully inactive. Originals are always backed up and can be restored in one click.
+
+> Cosmetic UPK swapping has been practised by the Rocket League community for years without reported EAC issues. However, modding always carries some inherent risk — use at your own discretion.
+
+---
+
 > This repository is the **official release channel** for RL-File-Switcher.
 > All releases here are used by the app for automatic updates.

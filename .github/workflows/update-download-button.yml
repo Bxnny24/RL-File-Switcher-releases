@@ -28,7 +28,7 @@ jobs:
           BEGIN_TAG: "<!-- BEGIN LATEST DOWNLOAD BUTTON -->"
           END_TAG: "<!-- END LATEST DOWNLOAD BUTTON -->"
         run: |
-          BLOCK="[![Download](https://img.shields.io/badge/Download-RLFileSwitcher_${{ env.VERSION }}-0d6efd?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/${{ env.GITHUB_USER }}/${{ env.REPO }}/releases/download/${{ env.VERSION }}/${{ env.ASSET }})
+          BLOCK="[![Download](https://img.shields.io/badge/Download-RLFileSwitcher_${{ env.VERSION }}-0d6efd?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/${{ env.GITHUB_USER }}/${{ env.REPO }}/releases/latest/download/${{ env.ASSET }})
 
           ![Platform](https://img.shields.io/badge/platform-Windows_10%2F11-lightgrey?style=flat-square&logo=windows)
           ![Version](https://img.shields.io/badge/version-${{ env.VERSION }}-0d6efd?style=flat-square)"

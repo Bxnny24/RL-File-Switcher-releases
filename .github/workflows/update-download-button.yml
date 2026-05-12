@@ -13,6 +13,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Get latest release tag
         id: latest
@@ -20,9 +22,6 @@ jobs:
         with:
           myToken: ${{ github.token }}
           view_top: 1
-
-      - name: Checkout main
-        run: git checkout main
 
       - name: Update download button in README
         env:

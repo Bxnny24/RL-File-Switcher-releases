@@ -5,10 +5,10 @@
 *Swap Rocket League cosmetic files instantly — per account, per profile.*
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download](https://img.shields.io/badge/Download-RLFileSwitcher_1.3.4-0d6efd?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Bxnny24/RL-File-Switcher-releases/releases/latest/download/RLFileSwitcher-win-Setup.exe)
+[![Download](https://img.shields.io/badge/Download-RLFileSwitcher_1.3.5-0d6efd?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Bxnny24/RL-File-Switcher-releases/releases/latest/download/RLFileSwitcher-win-Setup.exe)
 
 ![Platform](https://img.shields.io/badge/platform-Windows_10%2F11-lightgrey?style=flat-square&logo=windows)
-![Version](https://img.shields.io/badge/version-1.3.4-0d6efd?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.3.5-0d6efd?style=flat-square)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 </div>

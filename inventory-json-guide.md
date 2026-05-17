@@ -14,24 +14,14 @@ Plugin repository: [Bakkes/BetterInventoryExport](https://github.com/Bakkes/Bett
 
 ## Create the file
 
-1. Start BakkesMod.
-2. Start Rocket League with the account you want to export.
-3. Open the BakkesMod menu with `F2`.
-4. Open the `Plugins` tab.
-5. Select `Better Inventory Export`.
-6. Click `Dump to json`.
+1. Install and start BakkesMod.
+2. Install the Plugin on https://bakkesplugins.com/plugin/155 or through the Plugin manager via the ID "155" in Bakkesmod.
+3. Start Rocket League with the account you want to export. With EAC dissabled.
+4. Open the BakkesMod menu with `F2`.
+5. Open the `Plugins` tab.
+6. Select `Better Inventory Export`.
+7. Click `Dump to json`.
 
-You can also run this command in the BakkesMod console:
-
-```text
-invent_dump_better json
-```
-
-The file is created here:
-
-```text
-%AppData%\bakkesmod\bakkesmod\data\inventory.json
-```
 
 On a typical Windows install this looks like:
 
